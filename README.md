@@ -2,9 +2,10 @@
 
 Download from the vscode marketplace: https://marketplace.visualstudio.com/items?itemName=treffynnon.paraiso-dark-vscode-theme
 
-Forked from [gerane.Theme-Paraiso_dark][gerane-paraiso-dark].
+Forked from [gerane.Theme-Paraiso_dark][gerane-paraiso-dark] because the version published there [no longer works][gerane-paraiso-dark-issue] and does not include theme colours for newer themeable elements in vscpde such as the console and file pane etc.
 
 [gerane-paraiso-dark]: https://github.com/gerane/VSCodeThemes/tree/master/gerane.Theme-Paraiso_dark "gerane.Theme-Paraiso_dark GitHub repository"
+[gerane-paraiso-dark-issue]: https://github.com/gerane/VSCodeThemes/issues/89 "Issue #89: Paraiso_dark not working"
 
 ## Screenshot
 
