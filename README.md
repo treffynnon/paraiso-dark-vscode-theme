@@ -1,5 +1,7 @@
 # paraiso-dark-vscode-theme README
 
+Download from the vscode marketplace: https://marketplace.visualstudio.com/items?itemName=treffynnon.paraiso-dark-vscode-theme
+
 Forked from [gerane.Theme-Paraiso_dark][gerane-paraiso-dark].
 
 [gerane-paraiso-dark]: https://github.com/gerane/VSCodeThemes/tree/master/gerane.Theme-Paraiso_dark "gerane.Theme-Paraiso_dark GitHub repository"
