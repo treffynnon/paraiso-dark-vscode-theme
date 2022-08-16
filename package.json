@@ -1,7 +1,8 @@
 {
   "name": "paraiso-dark-vscode-theme",
   "displayName": "paraiso-dark-vscode-theme",
-  "description": "Fork of gerane Paraiso_dark vscode theme ported from Paraiso (dark) by Jan T. Scott and Chris Kempson",
+  "description": "Fork of gerane.Themes-Paraiso_dark vscode theme ported from Paraiso (dark) by Jan T. Scott and Chris Kempson",
+  "repository": "github:treffynnon/paraiso-dark-vscode-theme",
   "version": "1.0.0",
   "engines": {
     "vscode": "^1.70.0"
@@ -17,5 +18,8 @@
         "path": "./themes/paraiso-dark-color-theme.json"
       }
     ]
+  },
+  "devDependencies": {
+    "vsce": "^2.10.0"
   }
 }
