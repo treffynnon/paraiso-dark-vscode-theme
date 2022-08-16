@@ -7,7 +7,7 @@
   "license": "CC-BY-SA-3.0",
   "publisher": "treffynnon",
   "icon": "icon.png",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "engines": {
     "vscode": "^1.70.0"
   },
