@@ -6,6 +6,10 @@ Forked from [gerane.Theme-Paraiso_dark][gerane-paraiso-dark].
 
 [gerane-paraiso-dark]: https://github.com/gerane/VSCodeThemes/tree/master/gerane.Theme-Paraiso_dark "gerane.Theme-Paraiso_dark GitHub repository"
 
+## Screenshot
+
+![](https://raw.githubusercontent.com/treffynnon/paraiso-dark-vscode-theme/master/screenshot.png)
+
 ## Licence
 
 Licenced under the [Creative Commons Attribution-ShareAlike 3.0 Unported][licence] licence.
